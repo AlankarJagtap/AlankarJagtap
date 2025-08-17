@@ -8,11 +8,15 @@
 ---
 
 ### 👨‍💻 About Me
-- 🎓 3rd Year **BTech in Artificial Intelligence & Data Science**  
+- 🎓 4th Year **BTech in Artificial Intelligence & Data Science**  
 - 🤖 Passionate about **Machine Learning, Deep Learning, and Computer Vision**  
 - ☁️ Exploring **Cloud Computing** & **Cybersecurity**  
-- 💡 Always curious to build real-world solutions with AI & emerging technologies  
+- 💡 Always curious to build real-world solutions with AI & emerging technologies
+                                                                                                           
 
+<p align="center">
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="300" />
+</p>
 ---
 
 ### 🚀 Featured Projects
