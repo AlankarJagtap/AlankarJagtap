@@ -7,17 +7,26 @@
 
 ---
 
+<table>
+<tr>
+<td width="65%" valign="top">
+
 ### 👨‍💻 About Me
 - 🎓 4th Year **BTech in Artificial Intelligence & Data Science**  
 - 🤖 Passionate about **Machine Learning, Deep Learning, and Computer Vision**  
 - ☁️ Exploring **Cloud Computing** & **Cybersecurity**  
-- 💡 Always curious to build real-world solutions with AI & emerging technologies
-                                                                                                           
+- 💡 Always curious to build real-world solutions with AI & emerging technologies  
 
- <div>
-    <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2ljZHFkNzlkM2oxM3h5MDk3amRmaWMzdnBlbGV0bTdoZGwzOTA5ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZS57kdXudVqsDX0TLH/giphy.gif" width="250" />
-  </div>
+</td>
+<td width="35%" align="center" valign="top">
 
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2ljZHFkNzlkM2oxM3h5MDk3amRmaWMzdnBlbGV0bTdoZGwzOTA5ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZS57kdXudVqsDX0TLH/giphy.gif" width="250" />
+
+</td>
+</tr>
+</table>
+
+---
 
 ### 🚀 Featured Projects
 - 📝 [**Sentiment Analysis & Recommendation System**](https://github.com/alankarjagtap/sentiment-recommender) – Streamlit app with NLP + KNN clustering  
@@ -49,11 +58,11 @@
 ---
 
 ### 📊 GitHub Stats
-<p align="left">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alankarjagtap&show_icons=true&locale=en&layout=compact" alt="languages" />
 </p>
 
-<p align="left">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=alankarjagtap&show_icons=true&locale=en" alt="stats" />
 </p>
 
