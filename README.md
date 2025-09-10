@@ -13,8 +13,7 @@
 
 ### 👨‍💻 About Me
 - 🎓 4th Year **BTech in Artificial Intelligence & Data Science**  
-- 🤖 Passionate about **Machine Learning, Deep Learning, and Computer Vision**  
-- ☁️ Exploring **Cloud Computing** & **Cybersecurity**  
+- 🤖 Passionate about **Machine Learning, Deep Learning, Computer Vision and WEB Devlopment**  
 - 💡 Always curious to build real-world solutions with AI & emerging technologies  
 
 </td>
