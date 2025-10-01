@@ -28,7 +28,7 @@
 ---
 
 ### 🚀 Featured Projects
-- 🚦 [**Traff-AI**](https://github.com/alankarjagtap/sentiment-recommender) – Full-Stack Traffic Solution with AI Capabilities (In Progress).
+- 🚦 [**Traff-AI**](https://github.com/AlankarJagtap/ProjectCars) – Full-Stack Traffic Solution with AI Capabilities (In Progress).
 - 🌱 [**Tomato Crop Disease Classification**](https://github.com/AlankarJagtap/tomato-leaf-disease-detection) – Deep Learning with VGG16 (98% accuracy) + Streamlit deployment  
 - 🌌 [**Image Generation & Super-Resolution using GANs**](https://github.com/AlankarJagtap/DCGAN-ESRGAN) – Dual GAN pipeline (DCGAN + ESRGAN) with PSNR=29.92, SSIM=0.86, FID=0.70  
 - 🎥 [**Face Recognition Attendance System**](https://github.com/AlankarJagtap/smart-face-detection) – Streamlit + PyTorch + OpenCV + SQLite, >90% accuracy
@@ -47,6 +47,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
 
 ---
 
