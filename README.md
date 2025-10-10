@@ -13,7 +13,7 @@
 
 ### 👨‍💻 About Me
 - 🎓 4th Year **BTech in Artificial Intelligence & Data Science**  
-- 🤖 Passionate about **Machine Learning, Deep Learning, Computer Vision and WEB Devlopment**  
+- 🤖 Passionate about **Machine Learning, Deep Learning, Computer Vision and Web Development**  
 - 💡 Always curious to build real-world solutions with AI & emerging technologies  
 
 </td>
@@ -28,11 +28,11 @@
 ---
 
 ### 🚀 Featured Projects
-- 🚦 [**Traff-AI**](https://github.com/AlankarJagtap/ProjectCars) – Full-Stack Traffic Solution with AI Capabilities (In Progress).
+- 🚦 [**Traff-AI**](https://github.com/AlankarJagtap/ProjectCars) – Full-Stack Traffic Solution with AI Capabilities (In Progress).  
 - 🌱 [**Tomato Crop Disease Classification**](https://github.com/AlankarJagtap/tomato-leaf-disease-detection) – Deep Learning with VGG16 (98% accuracy) + Streamlit deployment  
 - 🌌 [**Image Generation & Super-Resolution using GANs**](https://github.com/AlankarJagtap/DCGAN-ESRGAN) – Dual GAN pipeline (DCGAN + ESRGAN) with PSNR=29.92, SSIM=0.86, FID=0.70  
-- 🎥 [**Face Recognition Attendance System**](https://github.com/AlankarJagtap/smart-face-detection) – Streamlit + PyTorch + OpenCV + SQLite, >90% accuracy
-- 📝 [**Sentiment Analysis & Recommendation System**](https://github.com/alankarjagtap/sentiment-recommender) – Streamlit app with NLP + KNN clustering    
+- 🎥 [**Face Recognition Attendance System**](https://github.com/AlankarJagtap/smart-face-detection) – Streamlit + PyTorch + OpenCV + SQLite, >90% accuracy  
+- 📝 [**Sentiment Analysis & Recommendation System**](https://github.com/alankarjagtap/sentiment-recommender) – Streamlit app with NLP + KNN clustering  
 
 ---
 
@@ -43,19 +43,19 @@
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4C89?style=for-the-badge&logo=n8n&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-
----
-
-### 📚 Currently Learning
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
