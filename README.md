@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alankar Jagtap</h1>
-<h3 align="center">AI & Data Science Student | ML & Python Developer | Cloud & Security Enthusiast</h3>
+<h3 align="center">AI Intern @ SlideUpLift | Final Year AI & Data Science Student | Building Smart Systems with ML, Python & Automation</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=alankarjagtap&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
@@ -12,9 +12,11 @@
 <td width="65%" valign="top">
 
 ### 👨‍💻 About Me
-- 🎓 4th Year **BTech in Artificial Intelligence & Data Science**  
-- 🤖 Passionate about **Machine Learning, Deep Learning, Computer Vision and Web Development**  
-- 💡 Always curious to build real-world solutions with AI & emerging technologies  
+- 🎓 Final-year **BTech student in Artificial Intelligence & Data Science**  
+- 💼 Currently working as an **AI Intern at SlideUpLift**, focusing on automation and intelligent systems  
+- 🤖 I love building things with **Machine Learning, Deep Learning, and Backend Automation**  
+- ⚙️ Exploring **RAG systems, LangChain, and AI workflow automation** lately  
+- 🌱 Always curious about **how AI, backend, and automation come together to solve real-world problems**  
 
 </td>
 <td width="35%" align="center" valign="top">
