@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alankar Jagtap</h1>
-<h3 align="center">AI Intern @ SlideUpLift | Final Year AI & Data Science Student | Building Smart Systems with ML, Python & Automation</h3>
+<h3 align="center"> I love Building Smart Systems with ML, AI & Automation</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=alankarjagtap&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
@@ -12,11 +12,10 @@
 <td width="65%" valign="top">
 
 ### 👨‍💻 About Me
-- 🎓 Final-year **BTech student in Artificial Intelligence & Data Science**  
-- 💼 Currently working as an **AI Intern at SlideUpLift**, focusing on automation and intelligent systems  
+- 🎓 Final-year **BTech student in Artificial Intelligence & Data Science**    
 - 🤖 I love building things with **Machine Learning, Deep Learning, and Backend Automation**  
-- ⚙️ Exploring **RAG systems, LangChain, and AI workflow automation** lately  
-- 🌱 Always curious about **how AI, backend, and automation come together to solve real-world problems**  
+- ⚙️ contribution to Open-Source lately  
+- 🌱 Always curious about new techy things
 
 </td>
 <td width="35%" align="center" valign="top">
@@ -30,11 +29,12 @@
 ---
 
 ### 🚀 Featured Projects
-- 🚦 [**Traff-AI**](https://github.com/AlankarJagtap/ProjectCars) – Full-Stack Traffic Solution with AI Capabilities (In Progress).  
+- 🚦 [**Traff-AI**][(https://github.com/AlankarJagtap/ProjectCars](https://github.com/AlankarJagtap/Traff-AI-v2) – Full-Stack Traffic Solution with AI Capabilities.  
 - 🌱 [**Tomato Crop Disease Classification**](https://github.com/AlankarJagtap/tomato-leaf-disease-detection) – Deep Learning with VGG16 (98% accuracy) + Streamlit deployment  
 - 🌌 [**Image Generation & Super-Resolution using GANs**](https://github.com/AlankarJagtap/DCGAN-ESRGAN) – Dual GAN pipeline (DCGAN + ESRGAN) with PSNR=29.92, SSIM=0.86, FID=0.70  
 - 🎥 [**Face Recognition Attendance System**](https://github.com/AlankarJagtap/smart-face-detection) – Streamlit + PyTorch + OpenCV + SQLite, >90% accuracy  
-- 📝 [**Sentiment Analysis & Recommendation System**](https://github.com/alankarjagtap/sentiment-recommender) – Streamlit app with NLP + KNN clustering  
+- 📝 [**Story Charchter Extracor**](https://github.com/AlankarJagtap/langchain-character-extractor) – VectorDB + Langchain + MistralAI
+- ⚙️ [**Reverse Auction Smart Contract**]((https://github.com/AlankarJagtap/Reverse-Auction-Smart-Contract)) – Solidity + Hardhat + etherium
 
 ---
 ### 🛠️ Tech Stack & Tools
