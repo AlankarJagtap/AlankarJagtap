@@ -34,7 +34,7 @@
 - 🌌 [**Image Generation & Super-Resolution using GANs**](https://github.com/AlankarJagtap/DCGAN-ESRGAN) – Dual GAN pipeline (DCGAN + ESRGAN) with PSNR=29.92, SSIM=0.86, FID=0.70  
 - 🎥 [**Face Recognition Attendance System**](https://github.com/AlankarJagtap/smart-face-detection) – Streamlit + PyTorch + OpenCV + SQLite, >90% accuracy  
 - 📝 [**Story Charchter Extracor**](https://github.com/AlankarJagtap/langchain-character-extractor) – VectorDB + Langchain + MistralAI
-- ⚙️ [**Reverse Auction Smart Contract**]((https://github.com/AlankarJagtap/Reverse-Auction-Smart-Contract)) – Solidity + Hardhat + etherium
+- ⚙️ [**Reverse Auction Smart Contract**](https://github.com/AlankarJagtap/Reverse-Auction-Smart-Contract) – Solidity + Hardhat + etherium
 
 ---
 ### 🛠️ Tech Stack & Tools
