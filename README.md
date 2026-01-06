@@ -29,7 +29,7 @@
 ---
 
 ### 🚀 Featured Projects
-- 🚦 [**Traff-AI**][(https://github.com/AlankarJagtap/ProjectCars](https://github.com/AlankarJagtap/Traff-AI-v2) – Full-Stack Traffic Solution with AI Capabilities.  
+- 🚦 [**Traff-AI**](https://github.com/AlankarJagtap/Traff-AI-v2) – Full-Stack Traffic Solution with AI Capabilities.  
 - 🌱 [**Tomato Crop Disease Classification**](https://github.com/AlankarJagtap/tomato-leaf-disease-detection) – Deep Learning with VGG16 (98% accuracy) + Streamlit deployment  
 - 🌌 [**Image Generation & Super-Resolution using GANs**](https://github.com/AlankarJagtap/DCGAN-ESRGAN) – Dual GAN pipeline (DCGAN + ESRGAN) with PSNR=29.92, SSIM=0.86, FID=0.70  
 - 🎥 [**Face Recognition Attendance System**](https://github.com/AlankarJagtap/smart-face-detection) – Streamlit + PyTorch + OpenCV + SQLite, >90% accuracy  
