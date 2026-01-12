@@ -54,6 +54,13 @@
 ![Hugging%20Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![SentenceTransformers](https://img.shields.io/badge/SentenceTransformers-1A73E8?style=for-the-badge&logo=semanticweb&logoColor=white)
 ![RAG](https://img.shields.io/badge/RAG-8A2BE2?style=for-the-badge&logo=knowledgebase&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-4B0082?style=for-the-badge&logo=graphql&logoColor=white)
+![CrewAI](https://img.shields.io/badge/CrewAI-0A0A0A?style=for-the-badge&logo=robotframework&logoColor=white)
+![AutoGen](https://img.shields.io/badge/AutoGen-2C2C2C?style=for-the-badge&logo=microsoft&logoColor=white)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-6E56CF?style=for-the-badge&logo=readthedocs&logoColor=white)
+![Haystack](https://img.shields.io/badge/Haystack-1F2937?style=for-the-badge&logo=databricks&logoColor=white)
+![DSPy](https://img.shields.io/badge/DSPy-3B82F6?style=for-the-badge&logo=python&logoColor=white)
+
 
 #### ⚙️ Backend Development  
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
@@ -70,6 +77,7 @@
 ![LangChain](https://img.shields.io/badge/LangChain-12100E?style=for-the-badge&logo=chainlink&logoColor=white)
 ![RAG](https://img.shields.io/badge/RAG-8A2BE2?style=for-the-badge&logo=knowledgebase&logoColor=white)
 ![OpenAI%20API](https://img.shields.io/badge/OpenAI%20API-412991?style=for-the-badge&logo=openai&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-4B0082?style=for-the-badge&logo=graphql&logoColor=white)
 
 #### 💾 Databases  
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
