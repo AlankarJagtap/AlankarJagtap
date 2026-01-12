@@ -1,33 +1,41 @@
 name: Generate Profile Summary Cards
 
-on:
+on: 
   schedule:
     - cron: "0 0 * * *"
-  workflow_dispatch:
+  workflow_dispatch: 
 
 permissions:
   contents: write
+  actions: read
 
-jobs:
+jobs: 
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
-        with:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with: 
           fetch-depth: 0
+          token: ${{ secrets. GITHUB_TOKEN }}
 
-      - uses: vn7n24fzkq/github-profile-summary-cards@release
-        env:
+      - name: Generate Profile Summary Cards
+        uses: vn7n24fzkq/github-profile-summary-cards@release
+        env: 
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           USERNAME: alankarjagtap
           THEME: github_dark
+          SHOW_OWNED_BY: true
 
-      - name: Commit & Push
+      - name: Check generated files
         run: |
-          git config --local user.email "action@github.com"
+          ls -la profile-summary-card-output/github_dark/ || echo "Output directory not found"
+
+      - name: Commit and Push changes
+        run: |
+          git config --local user.email "41898282+github-actions[bot]@users.noreply. github.com"
           git config --local user.name "github-actions[bot]"
-          git add profile-summary-card-output/
-          git commit -m "Update GitHub Profile Summary Cards"
-          git push
+          git add -A
+          git diff --quiet && git diff --staged --quiet || (git commit -m "chore: update profile summary cards" && git push)
         continue-on-error: true
