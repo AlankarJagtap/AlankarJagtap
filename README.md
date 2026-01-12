@@ -106,16 +106,12 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alankarjagtap&show_icons=true&theme=default&hide_border=true" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=alankarjagtap&show_icons=true&hide_border=true&cache_seconds=21600"
+    alt="GitHub Stats"
+  />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alankarjagtap&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=alankarjagtap&margin-w=8&no-frame=true" />
-</p>
 
 ---
 
