@@ -104,13 +104,11 @@
 ---
 
 ### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alankarjagtap&show_icons=true&locale=en&layout=compact" alt="languages" />
-</p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alankarjagtap&show_icons=true&locale=en" alt="stats" />
+  <img src="https://github-profile-trophy.vercel.app/?username=alankarjagtap&margin-w=8&no-frame=true" />
 </p>
+
 
 ---
 
