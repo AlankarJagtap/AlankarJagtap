@@ -106,12 +106,18 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=alankarjagtap&show_icons=true&hide_border=true&cache_seconds=21600"
-    alt="GitHub Stats"
-  />
+  <img src="./profile-summary-card-output/github_dark/0-profile-details.svg" />
 </p>
 
+<p align="center">
+  <img src="./profile-summary-card-output/github_dark/1-repos-per-language.svg" />
+  <img src="./profile-summary-card-output/github_dark/2-most-commit-language.svg" />
+</p>
+
+<p align="center">
+  <img src="./profile-summary-card-output/github_dark/3-stats.svg" />
+  <img src="./profile-summary-card-output/github_dark/4-productive-time.svg" />
+</p>
 
 ---
 
