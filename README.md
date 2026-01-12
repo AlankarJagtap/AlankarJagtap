@@ -78,6 +78,9 @@
 ![RAG](https://img.shields.io/badge/RAG-8A2BE2?style=for-the-badge&logo=knowledgebase&logoColor=white)
 ![OpenAI%20API](https://img.shields.io/badge/OpenAI%20API-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-4B0082?style=for-the-badge&logo=graphql&logoColor=white)
+![Mistral](https://img.shields.io/badge/Mistral%20API-FF4B4B?style=for-the-badge&logo=ai&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini%20API-1A73E8?style=for-the-badge&logo=google&logoColor=white)
+
 
 #### 💾 Databases  
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
